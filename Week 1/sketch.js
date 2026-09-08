@@ -4,5 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
-  Text('NGai Olz')
+  text('NGai Olz', 100, 100)
 }
